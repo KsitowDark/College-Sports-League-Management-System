@@ -26,24 +26,6 @@ This project is a web-based application to manage a sports league where differen
 - **Frontend**: HTML, CSS 
 - **Version Control**: Git
 
-## Project Structure
-
-college_sports_league/
-├── app.py # Main application file
-├── config.py # Configuration settings
-├── models.py # Database models
-├── routes.py # Application routes and view functions
-├── templates/ # HTML templates
-│ ├── base.html # Base template
-│ ├── index.html # Homepage template
-│ ├── register.html # Registration page template
-│ ├── schedule.html # Match schedule template
-│ ├── results.html # Match results template
-│ ├── leaderboard.html# Leaderboard template
-│ └── announcements.html # Announcements template
-├── static/ # Static files (CSS, JS, images)
-└── README.md # Project README file
-
 ## Installation
 
 1. **Clone the Repository**:
