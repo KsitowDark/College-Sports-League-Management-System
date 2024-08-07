@@ -30,8 +30,8 @@ This project is a web-based application to manage a sports league where differen
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/college_sports_league.git
-   cd college_sports_league
+   git clone https://github.com/Mouriyavk/College-Sports-League-Management-System.git
+   cd College-Sports-League-Management-System
    
 2. **Create a Virtual Environment**:
    ```sh
