@@ -51,18 +51,23 @@ This project is a web-based application to manage a sports league where differen
     ```sh
     flask run
  
-##Usage
+## Usage
+
 1. **Register Teams**:
-  Navigate to the registration page.
-  Departments can register their teams and players for different sports.
-2. **Schedule Matches**:
-  Admin can schedule matches between different departments.
+  - Navigate to the registration page.
+  - Departments can register their teams and players for different sports.
+
+3. **Schedule Matches**:
+  - Admin can schedule matches between different departments.
+
 3.**Update Scores**:
-  Enter and update match scores after each game.
+  - Enter and update match scores after each game.
+  
 4.**View Leaderboard**:
-  Check the leaderboard to see department rankings.
+  - Check the leaderboard to see department rankings.
+  
 5.**Post Announcements**:
-  Admin can post announcements about winners and upcoming events.
+  - Admin can post announcements about winners and upcoming events.
 
 
 
